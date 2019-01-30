@@ -36,7 +36,7 @@
 		border-radius: 4px;
 		margin-bottom: 10px;
 		word-wrap: break-word;
-	}
+	} 
 	
 	#genPasswordErr {
 		padding: 10px;
